@@ -15,18 +15,18 @@ const Testimonials: React.FC = () => {
   const testimonials: Testimonial[] = [
     {
       id: 1,
-      name: "Sarah Johnson",
+      name: "Jasiel Solís García",
       role: "Marketing Director",
       content: "Working with this team has been an absolute pleasure. Their attention to detail and commitment to excellence has truly transformed our online presence.",
-      avatar: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      avatar: "https://ih1.redbubble.net/image.5395733025.3628/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
       rating: 5
     },
     {
       id: 2,
-      name: "Michael Chen",
+      name: "Arthur Morgan",
       role: "CTO",
       content: "I've worked with many development teams, but none have matched the level of expertise and dedication that this team brings to the table.",
-      avatar: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      avatar: "https://i1.sndcdn.com/avatars-DzleQgQ9Dm4XmLVb-WQjqow-t1080x1080.jpg",
       rating: 5
     },
     {

@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center">
               <Palette className="h-8 w-8 text-blue-500" />
-              <span className="ml-2 text-xl font-bold text-gray-800">Fusion</span>
+              <span className="ml-2 text-xl font-bold text-gray-800">SOLIS GARCIA JASIEL</span>
             </div>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
               <a href="#" className="inline-flex items-center px-1 pt-1 border-b-2 border-blue-500 text-sm font-medium text-gray-900">
